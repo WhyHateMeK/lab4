@@ -1,0 +1,4 @@
+C:/Users/Максим/calculator_project/build/CMakeFiles/calculator.dir
+C:/Users/Максим/calculator_project/build/CMakeFiles/main.dir
+C:/Users/Максим/calculator_project/build/CMakeFiles/edit_cache.dir
+C:/Users/Максим/calculator_project/build/CMakeFiles/rebuild_cache.dir
